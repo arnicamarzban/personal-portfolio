@@ -1,0 +1,92 @@
+.firsthead {
+    color:rgb(255, 0, 242);
+    text-align: center;
+    font-size: 100px;
+    font-family:Verdana,sans-serif;
+}
+
+.secondhead {
+    color:rgb(255, 100, 242);
+    text-align: center;
+    font-size:90px;
+    font-family: Verdana,sans-serif;
+}
+
+.firstp {
+    color:rgb(255,180,242);
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana,sans-serif;
+}
+.secondp {
+    color: rgb(255,240,242);
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana,sans-serif;
+}
+
+
+
+.thirdp {
+    color:rgb(0, 0, 255);
+    text-align: center;
+    font-size: 45px;
+    font-family: Verdana,sans-serif;
+}
+
+.fourthp{
+    color:rgb(100, 100, 255);
+    font-family: Verdana,sans-serif;
+    
+}
+.fifthp {
+    color:rgb(200, 200, 255);
+    font-family: Verdana,sans-serif;
+
+}
+
+.thirdhead {
+    color: white;
+    text-align: center;
+    font-family: Verdana,sans-serif;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+.nav {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+
+.nav-list {
+    display: flex;
+    background-color:rgb(175, 175, 175) ;
+    list-style-type: none;
+    overflow:hidden;
+}
+.nav-list a {
+    padding: 32px;
+    text-decoration: none;
+    color: rgb(255,180,242);
+    font-size:20px;
+    font-style: normal;
+    font-family: Verdana,sans-serif;
+
+}
+.nav-list a:hover {
+background-color: rgb(140, 1, 116);
+}
+.home-section {
+    justify-content: center;
+}
+body {
+    background-color: black;
+  }
